@@ -1,0 +1,6 @@
+x=10
+if(x==10) :
+ print("x value is 10");
+ print("hi");
+else :
+ print("x value is not 10");
